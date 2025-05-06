@@ -1,0 +1,19 @@
+{
+    "General": {
+        "FilePaths": {
+            "DefaultProjectDirectory": "",
+            "OutputDirectory": ""
+        },
+        "Language": {
+            "Language": "English"
+        }
+    },
+    "UserInterface": {
+        "Menu": {
+            "MenuPosition": "Left Top"
+        },
+        "Theme": {
+            "CurrentTheme": "style.qss"
+        }
+    }
+}

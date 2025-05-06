@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>default/config.json</file>
+        <file>default/config_struct.json</file>
+        <file>default/project_file_struct.json</file>
+        <file>default/project_list_struct.json</file>
+        <file>default/projects.json</file>
+        <file>logo/applogo_128_template.png</file>
+        <file>template/appicon_.ico</file>
+        <file>template/applogo_128_template.png</file>
+    </qresource>
+</RCC>

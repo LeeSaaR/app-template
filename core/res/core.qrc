@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logos/PdfLetter_Logo.png</file>
+        <file>logos/PdfLetter_BG.png</file>
+        <file>logos/Logo_Big.png</file>
+        <file>logos/BeKo_Logo.png</file>
+        <file>themes/style.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+{
+    "General": {
+        "FilePaths": {
+            "DefaultProjectDirectory": { "Name": "Default Project Directory", "Type": "0"},
+            "OutputDirectory": { "Name": "Output Directory", "Type": "0"}
+        },
+        "Language": {
+            "Language": { "Name": "Language", "Type": "1"}
+        }
+    },
+    "UserInterface": {
+        "Menu": {
+            "MenuPosition": { "Name": "Menu Position", "Type": "1"}
+        },
+        "Theme": {
+            "CurrentTheme": { "Name": "Theme", "Type": "2" }
+        }
+    }
+}
